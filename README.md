@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Russo+One&weight=400&size=58&pause=450&color=8B4513&center=true&vCenter=true&width=1200&height=140&lines=SCUM+HACK+2026;GOD+MODE+%7C+INFINITE+AMMO;SURVIVE+THE+ISLAND" alt="SCUM Hack 2026" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7f1f70f-7dcc-42d2-9e7e-a13624572a67" />
 
 <br/>
 
